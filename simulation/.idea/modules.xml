@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ObjektTacking/.idea/ObjektTacking.iml" filepath="$PROJECT_DIR$/../ObjektTacking/.idea/ObjektTacking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../peoplerecogntion/.idea/peoplerecogntion.iml" filepath="$PROJECT_DIR$/../peoplerecogntion/.idea/peoplerecogntion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/simulation.iml" filepath="$PROJECT_DIR$/.idea/simulation.iml" />
+    </modules>
+  </component>
+</project>
