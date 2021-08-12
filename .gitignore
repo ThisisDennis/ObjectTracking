@@ -2,4 +2,4 @@ opencv-contrib-python
 numpy
 scipy
 munkres
-/output/*
+*.json
